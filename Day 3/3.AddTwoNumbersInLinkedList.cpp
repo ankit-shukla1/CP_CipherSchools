@@ -1,4 +1,4 @@
-                                            /****** Check If Linked List is Palindrome*******/
+                                            /****** Add Two Numbers in Form of Linked List*******/
 
 using namespace std;
 #include<bits/stdc++.h>
